@@ -25,7 +25,7 @@
   * [CODE](https://github.com/zzhining/public_data_analysis/blob/main/w07_seoul_subway_data_eda.ipynb)
 * 9주차: 공공데이터를 활용한 수치형 데이터 분석(1)
   * 분류 알고리즘(DecisionTreeClassifier, SVC)
-  * [CODE](http://)
+  * [CODE](https://github.com/zzhining/public_data_analysis/blob/main/w09_ml_basic_classifier.ipynb)
 * 10주차: 공공데이터를 활용한 수치형 데이터 분석(2)
   * 
   * [CODE](http://)
