@@ -30,11 +30,11 @@
   * 앙상블 모델(RandomForestClassifier, XGBClassifier, VotingClassifier), 하이퍼파라미터 튜닝(GridSearchCV)
   * [CODE](https://github.com/zzhining/public_data_analysis/blob/main/w10_ml_basic_classifier.ipynb)
 * 11주차: 공공데이터를 활용한 텍스트 데이터 분석(1) 
-  * 정규식(re), 워드클라우드
-  * [CODE2](https://github.com/zzhining/public_data_analysis/blob/main/w11_text_data_analysis_re.ipynb), [CODE3](https://github.com/zzhining/public_data_analysis/blob/main/w11_text_data_analysis_wordcloud.ipynb)
+  * 문자열기본, 정규식(re), 워드클라우드
+  * [문자열기본](https://github.com/zzhining/public_data_analysis/blob/main/w11_text_data_basic.ipynb),[정규식실습](https://github.com/zzhining/public_data_analysis/blob/main/w11_text_data_analysis_re.ipynb), [워드클라우드](https://github.com/zzhining/public_data_analysis/blob/main/w11_text_data_analysis_wordcloud.ipynb)
 * 12주차: 공공데이터를 활용한 텍스트 데이터 분석(2) 
-  * 
-  * [CODE](http://)
+  * [TF-IDF](https://github.com/zzhining/public_data_analysis/blob/main/w12_text_data_analysis_tfidf.ipynb)
+  * [SNA](https://github.com/zzhining/public_data_analysis/blob/main/w12_text_data_analysis_sna.ipynb)
 * 13주차: 공공데이터를 활용한 시계열 데이터 분석(1) 
   * 선형회귀모델, DeterministicProcess, 트렌드(trend)
   * [CODE](https://github.com/zzhining/public_data_analysis/blob/main/w13_time_series_basic.ipynb) 
